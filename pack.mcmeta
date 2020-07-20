@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": "Viossa translation"
+    },
+    "language": {
+        "vp_fenhl": {
+            "name": "Viossa",
+            "region": "unossa fu Fenhl"
+        }
+    }
+}
